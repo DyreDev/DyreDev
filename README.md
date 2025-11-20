@@ -5,7 +5,7 @@
 -  Interesse profundo em **ciência, matemática, física e psicologia aplicada**  
 -  Desenvolvendo o **Quadro Tático Inteligente para Rugby** usando **Godot 4, C# e arquitetura orientada a eventos**  
 -  Apaixonado por **software engineering**, simulações, modelagem e comunicação visual inteligente  
--  LinkedIn: *adicione seu link aqui*
+-  LinkedIn: *(https://www.linkedin.com/in/kwfc/)*
 
 ###  Tecnologias e Ferramentas
 
